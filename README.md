@@ -1,8 +1,6 @@
 # TrafficShaper
 
-Problem Statement is given in TrafficShapper.pdf
-
-SIMULATION AND MODELLING OF TOKEN BUCKET TRAFFIC SHAPER – COMMUNICATION NETWORKS
+SIMULATION AND MODELLING OF TOKEN BUCKET TRAFFIC SHAPER 
 
 Language and Platform: OMNET++ and C++
 
